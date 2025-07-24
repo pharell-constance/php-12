@@ -11,7 +11,7 @@
   color: #3f3f3f;
 }
 
-.modulecontainer li {
+.modulecontainer ul {
   color: #3f3f3f;
   font-size: 25px;
   list-style: none;
@@ -19,6 +19,8 @@
   flex-direction: column;
 }
 
-.modulecontainer ul {
+.modulecontainer li {
   margin-top: 15px;
+  color: #3f3f3f;
+  font-size: 25px;
 }
