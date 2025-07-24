@@ -5,16 +5,20 @@ require_once 'includes/header.php';
 ?>
 
 <div class="containertittle">
-    <p class=tittle>Bienvenue !</p>
+    <p class="tittle">Bienvenue !</p>
+</div>
+
+<div class="imgcontainer">
+    <img src="./assets/css/img/icons8-logo-php-500.png" alt="phplogo" />
 </div>
 <div class="containerquestion">
-    <h1 class=question>Qu'est ce que PHP ?</h1>
-    <p class=def>PHP (PHP: Hypertext Preprocessor) est un langage de programmation libre, principalement utilisé pour
-        produire des
-        pages Web dynamiques via un serveur HTTP mais pouvant également fonctionner comme n'importe quel langage
-        interprété
-        de façon locale. PHP est un langage impératif orienté objet.</p>
-    <img src="./assets/css/img/icons8-logo-php-500.png" alt="phplogo">
+    <h1 class="question">Qu'est ce que PHP ?</h1>
+    <p class="def">
+        PHP (PHP: Hypertext Preprocessor) est un langage de programmation libre,
+        principalement utilisé pour produire des pages Web dynamiques via un serveur
+        HTTP mais pouvant également fonctionner comme n'importe quel langage
+        interprété de façon locale. PHP est un langage impératif orienté objet.
+    </p>
 </div>
 
 <?php include 'includes/footer.php'; ?>

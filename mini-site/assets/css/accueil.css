@@ -22,3 +22,8 @@
   width: 50vw;
   color: #3f3f3f;
 }
+
+.imgcontainer {
+  display: flex;
+  justify-content: center;
+}
